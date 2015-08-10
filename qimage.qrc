@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>cellitem/0.bmp</file>
+        <file>cellitem/1.bmp</file>
+        <file>cellitem/2.bmp</file>
+        <file>cellitem/3.bmp</file>
+        <file>cellitem/4.bmp</file>
+        <file>cellitem/5.bmp</file>
+        <file>cellitem/6.bmp</file>
+        <file>cellitem/7.bmp</file>
+        <file>cellitem/8.bmp</file>
+        <file>cellitem/flag.bmp</file>
+        <file>cellitem/flag_err.bmp</file>
+        <file>cellitem/mine.png</file>
+        <file>cellitem/x.bmp</file>
+        <file>cellitem/mine_flag.png</file>
+        <file>cellitem/init.bmp</file>
+    </qresource>
+</RCC>
